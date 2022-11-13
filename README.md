@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning C#❤️
 - 💤 Idler and lazy
-- ☕️ Watched Evangelion and other anime
+- ☕️ Watched Evangelion, Elfen Lied and many other anime
 - ✨ I don't know anything at all
 - Help me
 
