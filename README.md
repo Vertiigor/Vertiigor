@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Vertiigor
+#  Hi, I’m @Vertiigor
+- 16 years old
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning C#❤️
 - 💤 Idler and lazy
