@@ -1,5 +1,5 @@
 #  Hi, I’m @Vertiigor
-> - 17 years old
+> - 18 years old
 > - I’m currently learning and using `C#`. Currently focused on `ASP.Net Core` web development.
 > - Languages: `Russian (native)`, `English (intermediate)`, `Japanese (N5)`
 > - Watched Evangelion, Elfen Lied, The Melancholy of Haruhi Suzumiya and many other anime
