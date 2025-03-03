@@ -1,15 +1,28 @@
 #  Hi, I’m @Vertiigor
+### Passionate about backend development with `.NET`. Building APIs and improving performance. I'm also into some low-level programming a bit.
 > - 18 years old
-> - I’m currently learning and using `C#`. Currently focused on `ASP.Net Core` and web development.
-> - Languages: `Russian (native)`, `English (B1 - B2)`, `Japanese (N5 - N4)`
-> - I don't know anything at all
+> - I mainly use `C#`  in combination with `Asp.Net Core` to create web-apps: Telegram bots and Web-Sites.
+> - Student of Astana IT University (first year).
+> - Languages: `Russian (native)`, `English (B2 - C1)`, `Japanese (N5 - N4)`.
+
+### My tech-stack:
+  <table>
+		<tr>
+	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>Swagger</a></td>
+	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>C#</a></td>
+	<td><a><img width="50" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.jpg?raw=true" title=".NET Core"/> .Net Core and Asp.Net Core</a></td>
+  <td><a><img width="50" src="https://github.com/ErikEJ/EntityFramework/blob/main/logo/ef-logo.png?raw=true" title="Entity Framework Core"/> Entity Framework Core</a></td>
+	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>PostgreSQL</a></td>
+	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>Docker</a></td>
+	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/>Arduino</a></td>
+    </tr>>
+  </table>
 
 #  Contacts:
-> - Telegram: https://t.me/Vertiigor
+> - Telegram: https://t.me/iMakowski
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vertiigor&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vertiigor&layout=compact&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vertiigor&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vertiigor&layout=compact&theme=tokyonight)
 
 <!---
 Vertiigor/Vertiigor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
