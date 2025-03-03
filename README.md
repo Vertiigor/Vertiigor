@@ -7,15 +7,16 @@
 
 ### My tech-stack:
   <table>
-		<tr>
-	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>Swagger</a></td>
-	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>C#</a></td>
-	<td><a><img width="50" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.jpg?raw=true" title=".NET Core"/> .Net Core and Asp.Net Core</a></td>
-  <td><a><img width="50" src="https://github.com/ErikEJ/EntityFramework/blob/main/logo/ef-logo.png?raw=true" title="Entity Framework Core"/> Entity Framework Core</a></td>
-	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>PostgreSQL</a></td>
-	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>Docker</a></td>
-	<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/>Arduino</a></td>
-    </tr>>
+	<tr>
+		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>Git</a></td>
+		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>C#</a></td>
+		<td><a><img width="50" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.jpg?raw=true" title=".NET Core"/> .Net Core and Asp.Net Core</a></td>
+  		<td><a><img width="50" src="https://github.com/ErikEJ/EntityFramework/blob/main/logo/ef-logo.png?raw=true" title="Entity Framework Core"/> Entity Framework Core</a></td>
+		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>PostgreSQL</a></td>
+		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>Swagger</a></td>
+		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>Docker</a></td>
+		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/>Arduino</a></td>
+    	</tr>
   </table>
 
 #  Contacts:
