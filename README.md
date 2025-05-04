@@ -16,8 +16,12 @@
     	</tr>
 	<tr>
 		<td><a><img width="50" src="https://th.bing.com/th/id/OIP.7LZmtWK77TNI5I_Nm--_mQHaEK?rs=1&pid=ImgDetMain" alt="RabbitMQ" title="RabbitMQ"/>RabbitMQ</a></td>
-		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>Swagger</a></td>
 		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>Docker</a></td>
+		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>Swagger</a></td>
+		<td><a><img width="50" src="https://static.vecteezy.com/system/resources/previews/018/930/708/large_2x/telegram-logo-telegram-icon-transparent-free-png.png" alt="Telegram bots" title="Telegram bots"/>Telegram Bots</a></td>
+		<td><a><img width="50" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png" alt="Redis" title="Redis"/>Redis</a></td>
+	</tr>
+	<tr>
 		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/>Arduino</a></td>
 	</tr>
   </table>
