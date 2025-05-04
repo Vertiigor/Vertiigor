@@ -1,11 +1,11 @@
 #  Hi, I’m @Vertiigor
 ### Passionate about backend development with `.NET`. Building APIs and improving performance. I'm also into some low-level programming a bit.
-> - 19 years old
-> - I mainly use `C#`  in combination with `Asp.Net Core` to create web-apps: Telegram bots, API and Web-Sites.
+> - 19 years old.
+> - I mainly use `C#`  in combination with `Asp.Net Core` to create web-apps: Telegram bots, API and Web-Services.
 > - Student of Astana IT University (first year).
-> - Languages: `Russian (native)`, `English (B2)`, `Japanese (N5)`.
+> - Languages: `English: upper-intermediate (B2)`, `Russian: native`, `Ukrainian: listening, reading and limited speaking`, `Japanese: self-study (N5)`.
 
-### My tech-stack:
+# My tech-stack:
   <table>
 	<tr>
 		<td><a><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>Git</a></td>
