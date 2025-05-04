@@ -28,9 +28,13 @@
 
 #  Contacts:
 > - Telegram: https://t.me/iMakowski
-
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vertiigor&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vertiigor&layout=compact&theme=tokyonight)
+--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vertiigor&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vertiigor&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vertiigor&theme=github_dark) 
 
 <!---
 Vertiigor/Vertiigor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
